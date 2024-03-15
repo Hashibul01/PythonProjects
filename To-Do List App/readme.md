@@ -136,7 +136,7 @@ a) tkinter: Standard Python GUI Library
 b) ttk: sub module within tkinter
 
 ## Database Used:
-No direct usage of databe. Tasks are stored on a JSON File as defined below. Tasks and coor (priority) are saved to the JSON file
+No direct usage of database. Tasks are stored on a JSON File as defined below. Tasks and coor (priority) are saved to the JSON file
 and loaded into the listbox from the JSON file. 
 
 " def load_tasks(self):
