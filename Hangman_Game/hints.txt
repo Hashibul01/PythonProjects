@@ -1,0 +1,50 @@
+{Vast expanse beyond Earth.}
+{A cloud of gas and dust in space.}
+{Collection of stars, gas, and dust by gravity.}
+{Extremely luminous and distant celestial object.}
+{Celestial body with a tail of gas and dust.}
+{Force that attracts objects toward each other.}
+{Relating to the Sun.}
+{Relating to the Moon.}
+{A sphere of plasma held together by gravity.}
+{Fourth state of matter.}
+{Relating to the universe.}
+{Celestial bodies orbiting a star.}
+{A small body of matter entering the Earth's atmosphere.}
+{A space devoid of matter.}
+{Emit energy, especially light or heat.}
+{Rocky objects orbiting the Sun, mostly found in the asteroid belt.}
+{A phenomena throughout space.}
+{Occurs when one celestial body obscures another.}
+{An object orbiting a larger object.}
+{Relating to stars.}
+{Natural light display in the Earth's sky.}
+{Something that happens, especially something important or unusual.}
+{An object that produces a magnetic field.}
+{A group of similar objects gathered together.}
+{Relating to the path followed by an object in space.}
+{Relating to the sky or heavens.}
+{A belt of the heavens divided into twelve equal divisions or signs.}
+{A highly magnetized rotating neutron star.}
+{Physical substance that occupies space.}
+{The outermost layer of the Sun's atmosphere.}
+{The curved path of a celestial object or spacecraft around a star, planet, or moon.}
+{A small or undersized version of something.}
+{A projectile propelled to great height by combustion of its contents.}
+{A region of spacetime where gravity is so strong that nothing can escape from it.}
+{A stellar explosion that briefly outshines an entire galaxy.}
+{Force that attracts objects toward each other.}
+{A group of similar objects gathered together.}
+{The outermost layer of the Sun's atmosphere.}
+{Fourth state of matter, consisting of ionized gas.}
+{Physical substance that occupies space.}
+{A projectile propelled to great height by combustion of its contents.}
+{Celestial body with a tail of gas and dust.}
+{Occurs when one celestial body obscures another.}
+{Extremely luminous and distant celestial object.}
+{The curved path of a celestial object or spacecraft.}
+{A small or undersized version of something.}
+{The outermost layer of the Sun's atmosphere.}
+{A group of similar objects gathered together.}
+{Fourth state of matter, consisting of ionized gas.}
+{Physical substance that occupies space.}
